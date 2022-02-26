@@ -1,0 +1,14 @@
+# ignore wp-config
+/wp-config.php
+/wp-config-sample.php
+
+# ignore wp repo plugins
+/wp-content/plugins/buddypress
+
+# ignore wp repo themes
+/wp-content/themes/twentynineteen
+/wp-content/themes/twentytwenty
+/wp-content/themes/twentytwentyone
+
+# ignore uploads
+/wp-content/uploads/
