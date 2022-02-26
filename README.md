@@ -1,2 +1,5 @@
-# gpsite
-Repository for `gatherpress.org` site codebase.
+# GatherPress.org
+The repository for the website codebase for `gatherpress.org`.
+
+---
+
