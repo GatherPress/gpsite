@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/gatherpress"]
+	path = wp-content/plugins/gatherpress
+	url = git@github.com:GatherPress/gatherpress.git
